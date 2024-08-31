@@ -10,7 +10,7 @@
 - Power BI Desktop  
 - Excel
 
-- **Advantages:**
+**Advantages:**
 - **Reduce Customer Churn:** Target and serve the at-risk customers to extend their loyalty.
 - **Value Added to Customer Experience:** More insight into customer needs for servicing purposes.
 - **Informed Decision Making:** Avail insights in data to make strategic choices that contribute to customer satisfaction.
